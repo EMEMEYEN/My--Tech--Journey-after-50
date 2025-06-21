@@ -19,3 +19,7 @@ I have learnt so much, ranging from Ms Excel to SQL, POWER Bi, and now to Portfo
 - SQL Server (Fot Querying and Analysis)
 - Power Bi (For creating a Report)
 - Ms Power Point (For Presentation)
+
+  ### Data Cleaning and Preoaration
+
+- 
