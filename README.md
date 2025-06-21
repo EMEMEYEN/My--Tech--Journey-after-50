@@ -17,9 +17,14 @@ I have learnt so much, ranging from Ms Excel to SQL, POWER Bi, and now to Portfo
     1. Data Manipulation
     2. Data Munching
 - SQL Server (Fot Querying and Analysis)
-- Power Bi (For creating a Report)
+- Power Bi [download here]
 - Ms Power Point (For Presentation)
 
   ### Data Cleaning and Preoaration
+
+  ``` SQL
+  SELECT A,B,C
+  WHERE A>15
+  ```
 
 - 
