@@ -27,4 +27,6 @@ I have learnt so much, ranging from Ms Excel to SQL, POWER Bi, and now to Portfo
   WHERE A>15
   ```
 
-- 
+### Analysis
+
+
