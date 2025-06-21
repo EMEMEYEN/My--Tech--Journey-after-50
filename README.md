@@ -7,3 +7,15 @@ I have learnt so much, ranging from Ms Excel to SQL, POWER Bi, and now to Portfo
 ## Project Topic:
 
 ### Project Overview: 
+
+### Data Source:
+
+### Tools Used:
+- Ms Excel for Data Cleaning [download here](https://www.microsoft.com)
+  - For Data Collection
+  - For Data Cleaning
+    1. Data Manipulation
+    2. Data Munching
+- SQL Server (Fot Querying and Analysis)
+- Power Bi (For creating a Report)
+- Ms Power Point (For Presentation)
